@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "name": "HTML Tutorial",
+        "thumbnail_url": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"
+    },
+    {
+        "id": "02",
+        "name": "CSS Tutorial",
+        "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+    },
+    {
+        "id": "03",
+        "name": "SQL Tutorial",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
+    },
+    {
+        "id": "04",
+        "name": "Python Tutorial",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"
+    },
+    {
+        "id": "05",
+        "name": "Java Tutorial",
+        "thumbnail_url": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg"
+    },
+    {
+        "id": "06",
+        "name": "Php Tutorial",
+        "thumbnail_url": "https://www.php.net/images/meta-image.png"
+    },
+    {
+        "id": "07",
+        "name": "C++ Tutorial",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
+    },
+    {
+        "id": "08",
+        "name": "C Tutorial",
+        "thumbnail_url": "https://contentstatic.techgig.com/photo/90325682.cms"
+    }
+]

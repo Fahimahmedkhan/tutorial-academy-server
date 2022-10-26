@@ -6,10 +6,14 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const hotels = require('./data/hotels.json');
+const tutorialCategories = require('./data/tutorialCategories.json');
 
 app.get('/', (req, res) => {
     res.send('Tutorial Academy Server is running')
+});
+
+app.get('/tutorialCategories', (req, res) => {
+    res.send(tutorialCategories)
 });
 
 app.listen(port, () => {
