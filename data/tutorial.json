@@ -101,7 +101,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "03",
+        "category_id": "04",
         "title": "Learn Python",
         "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
         "SubTitle": "What is Python?",
@@ -113,10 +113,58 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "03",
-        "title": "Introduction to SQL",
+        "category_id": "04",
+        "title": "Introduction to Python",
         "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
         "SubTitle": "What can Python do?",
         "details": "Python can be used on a server to create web applications. Python can be used alongside software to create workflows. Python can connect to database systems. It can also read and modify files. Python can be used to handle big data and perform complex mathematics. Python can be used for rapid prototyping, or for production-ready software development."
+    },
+    {
+        "_id": "0282e0e58sdc412fbd15ffasd1f11cqwb6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "title": "Learn Java",
+        "thumbnail_url": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg",
+        "SubTitle": "What is Java?",
+        "details": "Java is a popular programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more."
+    },
+    {
+        "_id": "028as2e0e58asdqa5c435fbd15gg11c2we6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "title": "Introduction to Java",
+        "thumbnail_url": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg",
+        "SubTitle": "Why Use Java?",
+        "details": "Python can be used on a server to create web applications. Python can be used alongside software to create workflows. Python can connect to database systems. It can also read and modify files. Python can be used to handle big data and perform complex mathematics. Python can be used for rapid prototyping, or for production-ready software development."
+    },
+    {
+        "_id": "0282e0e58sdc41rewrrw2fbd15ff1f11cqwb6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "06",
+        "title": "Learn PHP",
+        "thumbnail_url": "https://www.php.net/images/meta-image.png",
+        "SubTitle": "What is PHP?",
+        "details": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP. "
+    },
+    {
+        "_id": "028as2e0e58a5c43ter5fbd15gg11c2we6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "06",
+        "title": "Introduction to Java",
+        "thumbnail_url": "https://www.php.net/images/meta-image.png",
+        "SubTitle": "Why Use PHP?",
+        "details": "PHP is a widely-used, open source scripting language. PHP scripts are executed on the server. PHP is free to download and use. It is powerful enough to be at the core of the biggest blogging system on the web (WordPress)! It is deep enough to run large social networks! It is also easy enough to be a beginner's first server side language!"
     }
 ]
