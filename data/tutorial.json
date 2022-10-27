@@ -70,5 +70,53 @@
         "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
         "SubTitle": "HTML Editors",
         "details": "The selector points to the HTML element you want to style. The declaration block contains one or more declarations separated by semicolons. Each declaration includes a CSS property name and a value, separated by a colon. Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces."
+    },
+    {
+        "_id": "0282e0e58sdadc412fbd15ff1f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "title": "What is SQL?",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+        "SubTitle": "What is SQL?",
+        "details": "SQL is a standard language for storing, manipulating and retrieving data in databases. Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems."
+    },
+    {
+        "_id": "028as2e0e58a5c435fbd15gg11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "title": "Introduction to SQL",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+        "SubTitle": "Introduction to SQL",
+        "details": "SQL is a standard language for accessing and manipulating databases. SQL stands for Structured Query Language. SQL lets you access and manipulate databases. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987."
+    },
+    {
+        "_id": "0282e0e58sdc412fbd15ff1f11cqwb6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "title": "Learn Python",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+        "SubTitle": "What is Python?",
+        "details": "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991."
+    },
+    {
+        "_id": "028as2e0e58a5c435fbd15gg11c2we6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "title": "Introduction to SQL",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+        "SubTitle": "What can Python do?",
+        "details": "Python can be used on a server to create web applications. Python can be used alongside software to create workflows. Python can connect to database systems. It can also read and modify files. Python can be used to handle big data and perform complex mathematics. Python can be used for rapid prototyping, or for production-ready software development."
     }
 ]

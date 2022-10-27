@@ -31,16 +31,6 @@
     },
     {
         "id": "07",
-        "name": "C++ Tutorial",
-        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
-    },
-    {
-        "id": "08",
-        "name": "C Tutorial",
-        "thumbnail_url": "https://contentstatic.techgig.com/photo/90325682.cms"
-    },
-    {
-        "id": "09",
         "name": "All Tutorial",
         "thumbnail_url": "https://i.ytimg.com/vi/3a4Mad9Bgx8/maxresdefault.jpg"
     }

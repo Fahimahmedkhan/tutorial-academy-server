@@ -19,7 +19,7 @@ app.get('/tutorialCategories', (req, res) => {
 
 app.get('/tutorialCategories/:id', (req, res) => {
     const id = req.params.id;
-    if (id === '09') {
+    if (id === '07') {
         res.send(tutorial);
     }
     else {
