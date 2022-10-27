@@ -38,5 +38,10 @@
         "id": "08",
         "name": "C Tutorial",
         "thumbnail_url": "https://contentstatic.techgig.com/photo/90325682.cms"
+    },
+    {
+        "id": "09",
+        "name": "All Tutorial",
+        "thumbnail_url": "https://i.ytimg.com/vi/3a4Mad9Bgx8/maxresdefault.jpg"
     }
 ]
